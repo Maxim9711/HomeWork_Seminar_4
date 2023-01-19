@@ -1,0 +1,16 @@
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 4\задания\задача 27\bin\Debug\net6.0\задача 27.exe
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 4\задания\задача 27\bin\Debug\net6.0\задача 27.deps.json
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 4\задания\задача 27\bin\Debug\net6.0\задача 27.runtimeconfig.json
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 4\задания\задача 27\bin\Debug\net6.0\задача 27.dll
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 4\задания\задача 27\bin\Debug\net6.0\ref\задача 27.dll
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 4\задания\задача 27\bin\Debug\net6.0\задача 27.pdb
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 4\задания\задача 27\obj\Debug\net6.0\задача 27.GlobalUsings.g.cs
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 4\задания\задача 27\obj\Debug\net6.0\задача 27.csproj.AssemblyReference.cache
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 4\задания\задача 27\obj\Debug\net6.0\задача 27.GeneratedMSBuildEditorConfig.editorconfig
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 4\задания\задача 27\obj\Debug\net6.0\задача 27.AssemblyInfoInputs.cache
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 4\задания\задача 27\obj\Debug\net6.0\задача 27.AssemblyInfo.cs
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 4\задания\задача 27\obj\Debug\net6.0\задача 27.csproj.CoreCompileInputs.cache
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 4\задания\задача 27\obj\Debug\net6.0\задача 27.dll
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 4\задания\задача 27\obj\Debug\net6.0\ref\задача 27.dll
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 4\задания\задача 27\obj\Debug\net6.0\задача 27.pdb
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 4\задания\задача 27\obj\Debug\net6.0\задача 27.genruntimeconfig.cache
